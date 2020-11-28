@@ -1,7 +1,9 @@
 /* Changing h1 color */
-.card .container h1 {
+.active {
   color: rgb(230, 105, 105);
   border-style: double;
   border-width: 3px;
   border-color: rgb(14, 13, 13);
 }
+
+
