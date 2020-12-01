@@ -22,9 +22,9 @@ The goal of this homework assignment was to create a personal portfolio using HT
 ## Responsiveness
 
 **Breakpoints given by Bootstrap make webpage responsive to screen size:**
-![Navbar Pictured Example](Images/Screenshot (40).png)
-![Navbar Pictured Example](Images/Screenshot (41).png)
-![Navbar Pictured Example](Images/Screenshot (42).png)
+![Navbar Pictured Example](Images/Screenshot(40).png)
+![Navbar Pictured Example](Images/Screenshot(41).png)
+![Navbar Pictured Example](Images/Screenshot(42).png)
 
 
 
