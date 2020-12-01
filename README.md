@@ -20,10 +20,13 @@ The goal of this homework assignment was to create a personal portfolio using HT
 
 
 
-## Usage 
+## Responsiveness
 
-**Clicking on the items in the navigation bar will take you to their own page**
-![Navbar Pictured Example](Images/1606796849941.png)
+**Breakpoints given by Bootstrap make webpage responsive to screen size:**
+![Navbar Pictured Example](Images/Screenshot (40).png)
+![Navbar Pictured Example](Images/Screenshot (41).png)
+![Navbar Pictured Example](Images/Screenshot (42).png)
+
 
 
 ## Special thanks goes to: (*click on their name to view their Github profile*)
