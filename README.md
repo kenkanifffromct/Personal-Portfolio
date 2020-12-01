@@ -1,6 +1,5 @@
 # Responsive Portfolio
 
-# Horiseon Social Solution Services, Inc.
 ![GitHub forks](https://img.shields.io/github/forks/kenkanifffromct/Responsive-Portfolio?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/kenkanifffromct/Responsive-Portfolio)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kenkanifffromct/Responsive-Portfolio)
