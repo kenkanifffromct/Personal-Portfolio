@@ -4,5 +4,26 @@
 
 .fab {
   font-size: 100px;
-  color: black;
+  color: rgb(46, 85, 136);
+  margin-left: 45%;
+  margin-right: 50%;
+}
+
+.fa-linkedin {
+  position: relative;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.contact {
+  text-align: center;
+}
+
+.resume {
+  font-size: 40px;
+  text-align: center;
+  background-color: rgb(46, 85, 136);
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  margin:auto
 }
