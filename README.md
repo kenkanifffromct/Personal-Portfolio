@@ -17,26 +17,6 @@ The goal of this homework assignment was to create a personal portfolio using HT
 [**Clicking here**](https://github.com/kenkanifffromct/Responsive-Portfolio) will take you to the Github repository so you can view the files used in making the webpage.
 
 
-
-
-## Responsiveness
-
-**Breakpoints given by Bootstrap make webpage responsive to screen size:**
-![Navbar Pictured Example](Images/Screenshot(40).png)
-![Navbar Pictured Example](Images/Screenshot(41).png)
-**Now items in the navbar can be accessed with a hamburger toggler**
-![Navbar Pictured Example](Images/Screenshot(42).png)
-
-
-
-## Special thanks goes to: (*click on their name to view their Github profile*)
-
-
-[Jason Gibson](https://github.com/jgibsone4)
-
-[J.K. Royston](https://github.com/jxhnkndl)
-
-
 ## License
 
 
